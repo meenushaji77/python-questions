@@ -26,7 +26,7 @@ number1=(23,54,67,21)
 print(number1[0],number1[-1])
 
 # # 5. Write a Python program to count how many times a particular element appears in a tuple.
-number2=(10,20,30,20,)
+number2=(10,20,30,20)
 print(number2.count(20))
 
 # # 6. Create two sets and find their union and intersection.
@@ -54,7 +54,7 @@ result= max(students, key=students.get)
 print(result)
 
 
-# # 10. Write a Python program to count the frequency of each character in a string using a dictionary.
+ # 10. Write a Python program to count the frequency of each character in a string using a dictionary.
 text="meenakshi"
 frequency={}
 for i in text:
