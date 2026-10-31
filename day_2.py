@@ -53,7 +53,7 @@ for item,quantity in stock2.items():
     if item in result:
         rslt[item]+=quantity
     else:
-        rslt[item] = quantity
+        rslt[item] = quantity  
 print(rslt)
 
 # # 7.Group words by their first letter
