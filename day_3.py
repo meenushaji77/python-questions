@@ -39,7 +39,7 @@ for i in numbers:
 print(result)
 
 # 5. Dictionary – Invert dictionary
-data = {    "a": 1,   
+data = { "a": 1,   
          "b": 2,    
          "c": 3}
 result={}
